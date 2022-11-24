@@ -27,6 +27,7 @@ nav .logos p{margin: 2px; color: #d8d8d8;}
 nav .logos a p:hover {color: white;}
 nav .logos img {width: 30px;}
 @media (max-width: 767px) {nav .links a {font-size: 15px;} nav .links {gap: 25px;} .nav .logos .container {margin-top: 25px;}}
+@media (max-width: 595px) {nav .links a {font-size: 13.2px;} nav .links {gap: 15px;}}
 /* home */
 .home {position: relative; background-image: url(../images/1.jpg); background-size: cover;}
 .home .fiverrp {display: flex; justify-content: center; align-items: center;position: absolute; top: 70px; height: 30px; color: white; background: linear-gradient(337deg, rgb(50, 202, 0), rgb(0, 132, 22)); width: 100%}
